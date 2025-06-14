@@ -1,4 +1,12 @@
 {
+  "name": "LaurieFISTTOKEN",
+  "symbol": "LFIST",
+  "address": "0xc0679bF1fda759B7CfC44691b422405Fae84253f",
+  "chainId": 56,
+  "decimals": 18,
+  "logoURI": "https://tokens.pancakeswap.finance/images/0xc0679bF1fda759B7CfC44691b422405Fae84253f.png"
+},
+{
   "name": "PancakeSwap Extended",
   "timestamp": "2024-09-19T10:57:12.436Z",
   "version": {
